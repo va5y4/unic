@@ -6,16 +6,17 @@ Assignments done at the University of Nicosia. No vibe coding.
 
 ## 📂 Repository Structure
 
-| Directory | Course | Description |
-| :--- | :--- | :--- |
-| `semester1/` | **COMP-111**<br>Programming Principles | Foundational C++ coursework covering structured programming, problem-solving, and functional decomposition. |
+| Directory     | Course                                 | Description                                                                                                 |
+| :------------ | :------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| `semester01/` | **COMP-111**<br>Programming Principles | Foundational C++ coursework covering structured programming, problem-solving, and functional decomposition. |
+
 ---
 
 ## 🛠️ Stack
 
-* **Languages:** C++
-* **IDE:** Visual Studio
-  
+- **Languages:** C++
+- **IDE:** Visual Studio
+
 ---
 
 ## ⚠️ Academic Integrity
