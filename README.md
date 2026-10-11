@@ -1,6 +1,6 @@
 # UNIC Assignments
 
-Assignments completed at the University of Nicosia. No vibe coding.
+Coursework for the University of Nicosia. No AI generation.
 
 ## Coursework
 
