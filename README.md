@@ -1,24 +1,16 @@
-# unic
+# UNIC Assignments
 
-Assignments done at the University of Nicosia. No vibe coding.
+Assignments completed at the University of Nicosia. No vibe coding.
 
----
+## Structure
 
-## 📂 Repository Structure
+* `semester1/COMP-111/` - Programming Principles (C++)
 
-| Directory     | Course                                 | Description                                                                                                 |
-| :------------ | :------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| `semester01/` | **COMP-111**<br>Programming Principles | Foundational C++ coursework covering structured programming, problem-solving, and functional decomposition. |
+## Stack
 
----
+* **Language:** C++
+* **IDE:** Visual Studio
 
-## 🛠️ Stack
+## Academic Integrity
 
-- **Languages:** C++
-- **IDE:** Visual Studio
-
----
-
-## ⚠️ Academic Integrity
-
-> **Notice:** This repository is for personal tracking and portfolio purposes. If you are a student taking these courses, please do not copy the code. You have to learn to code. Without prompts.
+> This repository is for personal tracking and portfolio purposes. If you are a student taking these courses, please do not copy the code. Learn to code without prompts.
