@@ -2,14 +2,9 @@
 
 Assignments completed at the University of Nicosia. No vibe coding.
 
-## Structure
+## Coursework
 
-* `semester1/COMP-111/` - Programming Principles (C++)
-
-## Stack
-
-* **Language:** C++
-* **IDE:** Visual Studio
+* **COMP-111:** Programming Principles I (C++, Semester 1)
 
 ## Academic Integrity
 
